@@ -1,0 +1,21 @@
+.a {
+    text-decoration: none !important;
+}
+
+.navbar {
+    background-color: #aeaeae !important;
+    border-radius: 20px;
+    padding-bottom: 10px;
+}
+
+.title {
+    padding-top: 10px !important;
+}
+
+.table-responsive {
+    padding-top: 20px;
+}
+
+.prof {
+    font-weight: bold;
+}
